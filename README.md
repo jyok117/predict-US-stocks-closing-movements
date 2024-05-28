@@ -1,6 +1,8 @@
 # predict-US-stocks-closing-movements
 DS 677 Deep Learning : Predict US Stocks Closing Movements
 
+[kaggle Link](https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview)
+
 This project aims to develop a model to predict realized volatility in financial markets. Using high-frequency market data, the goal is to improve the efficiency and accuracy of trading strategies by forecasting price movements more effectively.
 
 ## Objective
