@@ -1,5 +1,5 @@
-# predict-US-stocks-closing-movements
-DS 677 Deep Learning : Predict US Stocks Closing Movements
+# predict-usa-stocks-closing-movements
+DS 677 Deep Learning : Predict USA Stocks Closing Movements
 
 [kaggle Link](https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview)
 
